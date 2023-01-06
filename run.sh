@@ -1,0 +1,1 @@
+python -m premailer -f in.html -o out.html --pretty --remove-classes
