@@ -1,0 +1,42 @@
+.woo-body {
+    background-color: #221534;
+    color: white;
+    font-family: Inter, sans-serif;
+    text-align: center;
+}
+
+.woo-block {
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.woo-gray {
+    color: lightgray
+}
+
+.woo-heading {
+    font-size: 120%;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.woo-list {
+    margin-left: 20px;
+}
+
+.woo-table {
+    width: 100%;
+}
+
+.woo-first-col {
+    font-size: 90%;
+}
+
+.woo-last-col {
+    text-align: right;
+    font-weight: bold;
+}
+
+.woo-orange {
+    color: #df6319;
+}
