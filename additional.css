@@ -1,0 +1,46 @@
+h1 {
+    color: palevioletred;
+}
+
+h2 {
+    color: palevioletred;
+}
+
+h3 {
+    text-align: center;
+    color:palevioletred;
+}
+
+h4 {
+    margin-left: -20px;
+    margin-bottom: 5px;
+    text-align: left;
+    color: palevioletred;
+}
+
+a {
+    color: #df6319;
+}
+
+.woo-column {
+    float: left;
+    width: 47%;
+    border-color: #df6319;
+    border-style: solid;
+    border-width: 1px;
+    margin: 1%;
+    /* text-align: left; */
+    text-indent: 30px;
+}
+
+/* Clear floats after the columns */
+.woo-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+hr {
+    color: #df6319;
+    border-style: dashed;
+}

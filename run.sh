@@ -1,1 +1,1 @@
-python -m premailer -f in.html -o out.html --pretty --remove-classes
+python -m premailer -f in.html -o out.html --pretty --remove-classes --base-path . --allow-loading-external-files
